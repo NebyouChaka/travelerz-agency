@@ -28,14 +28,17 @@ body {
 h1{
     text-align: center;
     color:rgb(207, 207, 244);
+    text-shadow: 5px 8px 10px blue
 }
 h4{
     text-align: center;
     color:solid black;
+    text-shadow: 5px 8px 10px blue
 }
 h2{
     text-align: center;
     color:sold black;
+    text-shadow: 5px 8px 10px blue
 }
 .test{
     text-align: center;
