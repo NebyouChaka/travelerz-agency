@@ -4,15 +4,52 @@ margin: 0;
 padding: 0;
 }
 body {
-    background-image: url("../imges/background.jpg");
+    background-image: url("https://www.respectability.org/wp-content/uploads/2015/01/france-flag.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    padding-top: 50px;
+    margin-right: 9rem;
+    margin-left: 9rem;
     
+
 }
 .feature-image{
     display: block;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
     margin-left: auto;
     margin-right: auto;
     width: 50;
+    border: 9px rgb(2, 1, 1);
+   
 }
-#motivation{
+
+h1{
     text-align: center;
+    color:rgb(207, 207, 244);
+}
+h4{
+    text-align: center;
+    color:solid black;
+}
+h2{
+    text-align: center;
+    color:sold black;
+}
+.test{
+    text-align: center;
+    color:solid black;
+}
+.test2{
+    text-align: center;
+    color:solid black;
+}
+#motivation1{
+    font-size: 18px;
+    color: rgb(207, 207, 244);
+}
+#motivation2{
+    font-size: 18px;
+    color: rgb(207, 207, 244);;
 }
